@@ -1,16 +1,26 @@
-### Hi there 👋
+[![Header](https://carzi.ru/logo.png "Header")](https://carzi.ru/)
 
-<!--
-**carzi/carzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Here are some ideas to get you started:
+I don't want to talk about myself, but you should know that I only do what interests me, in completely different fields. You can find me on Discord - [Soty#3922](https://discord.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/❯-c%20sharp-informational?style=for-the-badge&logo=C-Sharp&logoColor=white&color=4419b7)
+![](https://img.shields.io/badge/❯-node%20js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=4419b7)
+<br/>
+![](https://img.shields.io/badge/❯-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=4419b7)
+![](https://img.shields.io/badge/❯-css3-informational?style=for-the-badge&logo=css3&logoColor=white&color=4419b7)
+![](https://img.shields.io/badge/❯-javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=4419b7)
+![](https://img.shields.io/badge/❯-Tailwind%20CSS-informational?style=for-the-badge&logo=Tailwind-CSS&logoColor=white&color=4419b7)
+<br/>
+![](https://img.shields.io/badge/❯-Svelte-informational?style=for-the-badge&logo=Svelte&logoColor=white&color=4419b7)
+![](https://img.shields.io/badge/❯-react-informational?style=for-the-badge&logo=React&logoColor=white&color=4419b7)
+![](https://img.shields.io/badge/❯-react%20native-informational?style=for-the-badge&logo=React&logoColor=white&color=4419b7)
+<br/>
+![](https://img.shields.io/badge/❯-json%20developer-informational?style=for-the-badge&logo=json&logoColor=white&color=4419b7)
+
+## 💼 Portfolio
+
+Empty
+<!-- - [НПЦ "Мониторинг"](https://monitoringmd.com/) -->
